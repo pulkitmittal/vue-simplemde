@@ -28,7 +28,7 @@
   "license": "MIT",
   "dependencies": {
     "marked": "^0.7.0",
-    "simplemde": "https://github.com/pulkitmittal/simplemde-markdown-editor/tarball/1017a94ac688f89636df70c219f8e3036fb1c60a"
+    "simplemde": "https://github.com/pulkitmittal/simplemde-markdown-editor/tarball/e0335856a786b540973fb41caf64f565ad5a038e"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.9.0",
