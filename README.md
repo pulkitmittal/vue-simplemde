@@ -49,16 +49,16 @@ Vue.component('vue-simplemde', VueSimplemde)
 ```
 
 ## Props
-| property | type | default | describe |
-| ----| ----- | ----- | ---- |
-| value | String | None | Initial value, v-model binding can be used |
-| name | String | None | The name of the control. |
-| preview-class | String | None | Custom preview style class |
-| autoinit | Boolean | true | Automatic initialization |
-| highlight | Boolean | false | Is it open to highlight |
-| sanitize | Boolean | false | HTML that does not render input after opening |
-| configs | Object | {} | [SimpleMDE's config](#configuration) |
-| previewRender | Function | - | configs.previewRender |
+| property      | type     | default | describe                                      |
+| ------------- | -------- | ------- | --------------------------------------------- |
+| value         | String   | None    | Initial value, v-model binding can be used    |
+| name          | String   | None    | The name of the control.                      |
+| preview-class | String   | None    | Custom preview style class                    |
+| autoinit      | Boolean  | true    | Automatic initialization                      |
+| highlight     | Boolean  | false   | Is it open to highlight                       |
+| sanitize      | Boolean  | false   | HTML that does not render input after opening |
+| configs       | Object   | {}      | [SimpleMDE's config](#configuration)          |
+| previewRender | Function | -       | configs.previewRender                         |
 
 ## Methods
 
@@ -155,7 +155,7 @@ $ npm install --save simplemde-theme-base
 
 ## Dependencies
 
-* [SimpleMDE](https://github.com/sparksuite/simplemde-markdown-editor)
+* [SimpleMDE](https://github.com/pulkitmittal/simplemde-markdown-editor)
 
 ## Licence
 
